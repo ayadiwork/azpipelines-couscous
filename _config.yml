@@ -1,10 +1,10 @@
 ### your site title here
 
 title: Ahmed AYADI
-description: DevOps Engineer
+description: "DevOps Engineer"
 
-baseurl: /gradfolio #name of GitHub repository
-url: "azpipelines-couscous.github.io/" #custom url to be used instead of GitHub repository
+baseurl: /azpipelines-couscous #name of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
 email: ahmedayadi@outlook.com
 
 
@@ -19,8 +19,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "#"
-github: "#"
+linkedin: "https://www.linkedin.com/in/ahmed-ayadi-9530501b"
+github: "https://github.com/ayadiwork/"
 researchgate: "#"
 orcid: "#"
 
