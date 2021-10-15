@@ -4,8 +4,8 @@ title: Ahmed AYADI
 description: DevOps Engineer
 
 baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+url: "azpipelines-couscous.github.io/" #custom url to be used instead of GitHub repository
+email: ahmedayadi@outlook.com
 
 
 highlighter: rouge
